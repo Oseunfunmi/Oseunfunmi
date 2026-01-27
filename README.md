@@ -24,5 +24,7 @@ When I’m not working with data, I unwind with **music, chess, and board games*
 
 ### 📱 Check me out on my socials 
 [IG: @simply_seunfunmi](https://instagram.com/simply_seunfunmi?igsh=MTR2cDZ3ZmloZWN4NQ==)
+
 [X: @OseunfunmiMich1](https://x.com/OSeunfunmiMich1?t=ug9Q_3hfd9VpVDQg32VObw&s=09)
+
 [🔗 LinkedIn: Oluwaseun Michael Akinyemi](linkedin.com/in/seunfunmimichaelanalyst)

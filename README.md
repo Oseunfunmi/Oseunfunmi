@@ -1,6 +1,23 @@
 ## Hi there 👋
 
-<!--
-**Oseunfunmi/Oseunfunmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Seunfunmi**, a **Geographer, Data & Research Analyst**, and **Educational Consultant** with a strong interest in using data to understand spatial and social inequalities.
 
--- Hey, I'm Seunfunmi, a Geography Educator transitioning into Data Analytics. Check out my featured projects below!
+### 🔍 What I Do
+- Data analysis using **Excel, SQL, and Power BI**
+- Research-driven insights with a geographic perspective
+- Educational and policy-focused analytics
+
+### 🌍 Current Focus
+- Educational access & spatial inequality in Nigeria  
+- Social and development-focused data projects  
+- Building a strong analytics portfolio with real-world impact
+
+### 🛠️ Tools
+- Excel  
+- SQL  
+- Power BI  
+
+### ♟️ Beyond Work
+When I’m not working with data, I unwind with **music, chess, and board games** — strategy never really leaves me.
+
+📌 *Always learning. Always building. Always improving.*
